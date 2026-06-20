@@ -42,3 +42,17 @@ h1{
 body{
     margin: 0px;
 }
+
+.card{
+    border:2px;
+    border-color: black;
+    border-style: solid;
+    padding:10px;
+    width: 200px;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.card img{
+    width: 100%;
+}
