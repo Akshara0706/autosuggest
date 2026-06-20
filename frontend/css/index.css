@@ -13,7 +13,7 @@ h1{
 .para{
     color:skyblue;
     border:3px;
-    border-color: palevioletred;
+    border-color: rgb(53, 39, 44);
     border-style: solid;
     padding: 20px;
     text-align: center;
@@ -21,7 +21,7 @@ h1{
 
 .nav{
     border:2px;
-    border-color: rgb(244, 171, 196);
+    border-color: rgb(48, 38, 42);
     border-style: solid;
     background-color: black;
     color: white;
@@ -37,7 +37,7 @@ h1{
 }
 .nav a:hover{
     background-color:rgb(28, 24, 24);
-    color:rgb(95, 139, 182);
+    color:white;
 }
 body{
     margin: 0px;
@@ -55,4 +55,8 @@ body{
 
 .card img{
     width: 100%;
+}
+
+.card button{
+    margin-bottom:20px;
 }
